@@ -1,0 +1,22 @@
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Comandos em C#\bin\Debug\netcoreapp3.1\Comandos.exe
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Comandos em C#\bin\Debug\netcoreapp3.1\Comandos.deps.json
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Comandos em C#\bin\Debug\netcoreapp3.1\Comandos.runtimeconfig.json
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Comandos em C#\bin\Debug\netcoreapp3.1\Comandos.runtimeconfig.dev.json
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Comandos em C#\bin\Debug\netcoreapp3.1\Comandos.dll
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Comandos em C#\bin\Debug\netcoreapp3.1\Comandos.pdb
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Comandos em C#\obj\Debug\netcoreapp3.1\Comandos.csprojAssemblyReference.cache
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Comandos em C#\obj\Debug\netcoreapp3.1\Comandos.AssemblyInfoInputs.cache
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Comandos em C#\obj\Debug\netcoreapp3.1\Comandos.AssemblyInfo.cs
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Comandos em C#\obj\Debug\netcoreapp3.1\Comandos.dll
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Comandos em C#\obj\Debug\netcoreapp3.1\Comandos.pdb
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Comandos\bin\Debug\netcoreapp3.1\Comandos.exe
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Comandos\bin\Debug\netcoreapp3.1\Comandos.deps.json
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Comandos\bin\Debug\netcoreapp3.1\Comandos.runtimeconfig.json
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Comandos\bin\Debug\netcoreapp3.1\Comandos.runtimeconfig.dev.json
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Comandos\bin\Debug\netcoreapp3.1\Comandos.dll
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Comandos\bin\Debug\netcoreapp3.1\Comandos.pdb
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Comandos\obj\Debug\netcoreapp3.1\Comandos.csprojAssemblyReference.cache
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Comandos\obj\Debug\netcoreapp3.1\Comandos.AssemblyInfoInputs.cache
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Comandos\obj\Debug\netcoreapp3.1\Comandos.AssemblyInfo.cs
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Comandos\obj\Debug\netcoreapp3.1\Comandos.dll
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Comandos\obj\Debug\netcoreapp3.1\Comandos.pdb

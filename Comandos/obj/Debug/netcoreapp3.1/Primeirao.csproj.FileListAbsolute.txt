@@ -1,0 +1,11 @@
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Primeirao\bin\Debug\netcoreapp3.1\Primeirao.exe
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Primeirao\bin\Debug\netcoreapp3.1\Primeirao.deps.json
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Primeirao\bin\Debug\netcoreapp3.1\Primeirao.runtimeconfig.json
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Primeirao\bin\Debug\netcoreapp3.1\Primeirao.runtimeconfig.dev.json
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Primeirao\bin\Debug\netcoreapp3.1\Primeirao.dll
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Primeirao\bin\Debug\netcoreapp3.1\Primeirao.pdb
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Primeirao\obj\Debug\netcoreapp3.1\Primeirao.csprojAssemblyReference.cache
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Primeirao\obj\Debug\netcoreapp3.1\Primeirao.AssemblyInfoInputs.cache
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Primeirao\obj\Debug\netcoreapp3.1\Primeirao.AssemblyInfo.cs
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Primeirao\obj\Debug\netcoreapp3.1\Primeirao.dll
+C:\Users\lucas.silva\Projetos\dotnet\PrimeiroProjeto\Primeirao\obj\Debug\netcoreapp3.1\Primeirao.pdb
