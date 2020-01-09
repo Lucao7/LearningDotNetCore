@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas.silva\\Projetos\\dotnet\\cursoDIO\\instrucoes\\intrucoes.csproj": {}
+    "C:\\Users\\lucas.silva\\Projetos\\dotnet\\cursoDIO\\classesnobjs\\classesnobjs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas.silva\\Projetos\\dotnet\\cursoDIO\\instrucoes\\intrucoes.csproj": {
+    "C:\\Users\\lucas.silva\\Projetos\\dotnet\\cursoDIO\\classesnobjs\\classesnobjs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas.silva\\Projetos\\dotnet\\cursoDIO\\instrucoes\\intrucoes.csproj",
-        "projectName": "intrucoes",
-        "projectPath": "C:\\Users\\lucas.silva\\Projetos\\dotnet\\cursoDIO\\instrucoes\\intrucoes.csproj",
+        "projectUniqueName": "C:\\Users\\lucas.silva\\Projetos\\dotnet\\cursoDIO\\classesnobjs\\classesnobjs.csproj",
+        "projectName": "classesnobjs",
+        "projectPath": "C:\\Users\\lucas.silva\\Projetos\\dotnet\\cursoDIO\\classesnobjs\\classesnobjs.csproj",
         "packagesPath": "C:\\Users\\lucas.silva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas.silva\\Projetos\\dotnet\\cursoDIO\\instrucoes\\obj\\",
+        "outputPath": "C:\\Users\\lucas.silva\\Projetos\\dotnet\\cursoDIO\\classesnobjs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",

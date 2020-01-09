@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas.silva\\projetos\\dotnet\\cursoDIO\\instrucoes\\intrucoes.csproj",
-      "projectName": "intrucoes",
-      "projectPath": "C:\\Users\\lucas.silva\\projetos\\dotnet\\cursoDIO\\instrucoes\\intrucoes.csproj",
+      "projectUniqueName": "C:\\Users\\lucas.silva\\Projetos\\dotnet\\cursoDIO\\structsnenums\\structsnenums.csproj",
+      "projectName": "structsnenums",
+      "projectPath": "C:\\Users\\lucas.silva\\Projetos\\dotnet\\cursoDIO\\structsnenums\\structsnenums.csproj",
       "packagesPath": "C:\\Users\\lucas.silva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas.silva\\projetos\\dotnet\\cursoDIO\\instrucoes\\obj\\",
+      "outputPath": "C:\\Users\\lucas.silva\\Projetos\\dotnet\\cursoDIO\\structsnenums\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",

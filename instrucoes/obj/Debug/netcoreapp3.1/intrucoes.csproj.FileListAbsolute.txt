@@ -1,0 +1,11 @@
+C:\Users\lucas.silva\projetos\dotnet\cursoDIO\instrucoes\obj\Debug\netcoreapp3.1\intrucoes.csprojAssemblyReference.cache
+C:\Users\lucas.silva\projetos\dotnet\cursoDIO\instrucoes\obj\Debug\netcoreapp3.1\intrucoes.AssemblyInfoInputs.cache
+C:\Users\lucas.silva\projetos\dotnet\cursoDIO\instrucoes\obj\Debug\netcoreapp3.1\intrucoes.AssemblyInfo.cs
+C:\Users\lucas.silva\Projetos\dotnet\cursoDIO\instrucoes\bin\Debug\netcoreapp3.1\intrucoes.exe
+C:\Users\lucas.silva\Projetos\dotnet\cursoDIO\instrucoes\bin\Debug\netcoreapp3.1\intrucoes.deps.json
+C:\Users\lucas.silva\Projetos\dotnet\cursoDIO\instrucoes\bin\Debug\netcoreapp3.1\intrucoes.runtimeconfig.json
+C:\Users\lucas.silva\Projetos\dotnet\cursoDIO\instrucoes\bin\Debug\netcoreapp3.1\intrucoes.runtimeconfig.dev.json
+C:\Users\lucas.silva\Projetos\dotnet\cursoDIO\instrucoes\bin\Debug\netcoreapp3.1\intrucoes.dll
+C:\Users\lucas.silva\Projetos\dotnet\cursoDIO\instrucoes\bin\Debug\netcoreapp3.1\intrucoes.pdb
+C:\Users\lucas.silva\Projetos\dotnet\cursoDIO\instrucoes\obj\Debug\netcoreapp3.1\intrucoes.dll
+C:\Users\lucas.silva\Projetos\dotnet\cursoDIO\instrucoes\obj\Debug\netcoreapp3.1\intrucoes.pdb
