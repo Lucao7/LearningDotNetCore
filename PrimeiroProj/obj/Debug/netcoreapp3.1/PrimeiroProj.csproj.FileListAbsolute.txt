@@ -1,0 +1,11 @@
+C:\Users\lucas.silva\Projetos\dotnet\cursoDIO\PrimeiroProj\bin\Debug\netcoreapp3.1\PrimeiroProj.exe
+C:\Users\lucas.silva\Projetos\dotnet\cursoDIO\PrimeiroProj\bin\Debug\netcoreapp3.1\PrimeiroProj.deps.json
+C:\Users\lucas.silva\Projetos\dotnet\cursoDIO\PrimeiroProj\bin\Debug\netcoreapp3.1\PrimeiroProj.runtimeconfig.json
+C:\Users\lucas.silva\Projetos\dotnet\cursoDIO\PrimeiroProj\bin\Debug\netcoreapp3.1\PrimeiroProj.runtimeconfig.dev.json
+C:\Users\lucas.silva\Projetos\dotnet\cursoDIO\PrimeiroProj\bin\Debug\netcoreapp3.1\PrimeiroProj.dll
+C:\Users\lucas.silva\Projetos\dotnet\cursoDIO\PrimeiroProj\bin\Debug\netcoreapp3.1\PrimeiroProj.pdb
+C:\Users\lucas.silva\Projetos\dotnet\cursoDIO\PrimeiroProj\obj\Debug\netcoreapp3.1\PrimeiroProj.csprojAssemblyReference.cache
+C:\Users\lucas.silva\Projetos\dotnet\cursoDIO\PrimeiroProj\obj\Debug\netcoreapp3.1\PrimeiroProj.AssemblyInfoInputs.cache
+C:\Users\lucas.silva\Projetos\dotnet\cursoDIO\PrimeiroProj\obj\Debug\netcoreapp3.1\PrimeiroProj.AssemblyInfo.cs
+C:\Users\lucas.silva\Projetos\dotnet\cursoDIO\PrimeiroProj\obj\Debug\netcoreapp3.1\PrimeiroProj.dll
+C:\Users\lucas.silva\Projetos\dotnet\cursoDIO\PrimeiroProj\obj\Debug\netcoreapp3.1\PrimeiroProj.pdb

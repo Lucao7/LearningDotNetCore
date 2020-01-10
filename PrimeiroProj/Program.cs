@@ -1,4 +1,5 @@
 ﻿using System;
+using PrimeiroProj;
 
 namespace _primeiroprojeto
 {
@@ -6,7 +7,9 @@ namespace _primeiroprojeto
     {
         static void Main(string[] args)
         {
-
+            
+            bool dec = true;
+            Aluno[] alunos = new Aluno[5];
             string opc;
 
             do
@@ -17,6 +20,19 @@ namespace _primeiroprojeto
                 {
                     case "1":
                         //Adicionar aluno
+                        Console.Write("\nInforme o nome do aluno: ");
+                        Aluno aluno = new Aluno();
+                        aluno.nome = Console.ReadLine();
+
+                        Console.Write("Informe a nota do aluno: ");
+
+                        while ((dec = !decimal.TryParse(Console.ReadLine(), out decimal nota)) || ((nota < 0) || (nota > 10)))
+                        {
+                            if (dec)
+                                Console.Write("A nota do aluno deve ser decimal! Digite novamente: ");
+                            else
+                                Console.Write("A nota deve estar entre 0 e 10! Digite novamente: ");
+                        }
                         break;
                     case "2":
                         //Listar alunos
