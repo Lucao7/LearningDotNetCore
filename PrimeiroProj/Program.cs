@@ -28,23 +28,20 @@ namespace _primeiroprojeto
 
                 switch (opc)
                 {
-                    case "1":
-                        //Adicionar aluno
+                    case "1":   //Adicionar aluno
                         Console.Write("\nInforme o nome do aluno: ");
                         var aluno = new Aluno();
                         aluno.nome = Console.ReadLine();
-
                         Console.Write("Informe a nota do aluno: ");
-
-                        while ((dec = !decimal.TryParse(Console.ReadLine(), out decimal nota)) || ((nota < 0) || (nota > 10)))
+                        decimal nota;
+                        while ((dec = !decimal.TryParse(Console.ReadLine(), out nota)) || ((nota < 0) || (nota > 10)))
                         {
                             if (dec)
                                 Console.Write("A nota do aluno deve ser decimal! Digite novamente: ");
-                            else if ((nota < 0) || (nota > 10))
-                                Console.Write("A nota deve estar entre 0 e 10! Digite novamente: ");
                             else
-                                aluno.nota = nota;
+                                Console.Write("A nota deve estar entre 0 e 10! Digite novamente: ");
                         }
+                        aluno.nota = nota;
                         alunos[indice] = aluno;
                         indice++;
 
@@ -72,7 +69,8 @@ namespace _primeiroprojeto
             string opc;
             Console.Write("\n\t\tMenu de opções: \n\n1- Inserir novo aluno \n2- Listar alunos \n3- Calcular média geral \n\n0- Sair \n\nOpção desejada: ");
             opc = Console.ReadLine();
-            opc = Validacao(opc);
+            if ((opc != "1") && (opc != "2") && (opc != "3") && (opc != "0"))
+                opc = Validacao(opc);
             return opc;
         }
         
